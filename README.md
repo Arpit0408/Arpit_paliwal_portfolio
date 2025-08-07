@@ -1,76 +1,78 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# 💼 Arpit Paliwal – Developer Portfolio
 
-<br/>
+Welcome to my personal portfolio website built with **React.js**. This site showcases some of the projects I've developed using modern web technologies like the **MERN stack**, **Socket.io**, **ZegoCloud**, and more.
 
-<center>
+<!-- 🔗 **Live Demo:** [View Portfolio](https://arpit0408.vercel.app)   -->
+📁 **GitHub Repo:** [Arpit_paliwal_portfolio](https://github.com/Arpit0408/Arpit_paliwal_portfolio)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+---
 
-</center>
+## 🚀 Projects Featured
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+### 🛒 Buykro
+A full-featured e-commerce application built using the **MERN** stack. It includes:
+- JWT authentication
+- Redux state management
+- Bcrypt password hashing
+- Material-UI responsive design  
+🔗 [Live Demo](https://buykrofrontend.vercel.app)
 
-## TL;DR
+### 💬 Chatkro
+A real-time chat app built with:
+- MERN stack
+- Socket.io for live communication
+- Bcrypt for secure login
+- Material-UI  
+🔗 [Live Demo](https://chatkro-ochre.vercel.app/chat)
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+### 🎥 Video Conference App
+Developed using:
+- React + Vite
+- ZegoCloud SDK for real-time video calls
+- React Router for dynamic room routing  
+🔗 [Live Demo](https://lnkd.in/edSK4UMw)
 
-## Built With
+---
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+## 🛠️ Built With
 
-This project was built using these technologies.
+- React.js (with Vite)
+- React Router
+- Bootstrap / Material-UI
+- Deployed on Vercel
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+---
 
-## Features
+## 📂 Folder Structure
 
-**📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## ⚙️ How to Run Locally
 
-## Getting Started
+```bash
+git clone https://github.com/Arpit0408/Arpit_paliwal_portfolio.git
+cd Arpit_paliwal_portfolio
+npm install
+npm run dev
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Portfolio/
+├── public/
+├── src/
+│ ├── Components/
+│ ├── Pages/
+│ ├── Assets/
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── vite.config.js
 
-## 🛠 Installation and Setup Instructions
 
-1. Installation: `npm install`
+📦 Deployment
+This portfolio is deployed on Vercel. Simply push updates to the main branch and Vercel handles the deployment automatically.
 
-2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+🙋‍♂️ About Me
+I’m Arpit Paliwal, a passionate full-stack developer focused on building web applications with clean UI, strong functionality, and real-time capabilities.
 
-## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
