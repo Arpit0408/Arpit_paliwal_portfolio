@@ -4,7 +4,6 @@ import myImg from "../../Assets/b1.png"; // Update this if you have your own ima
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
