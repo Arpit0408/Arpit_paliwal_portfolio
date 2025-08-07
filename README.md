@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built with **React.js**. This site showcases some of the projects I've developed using modern web technologies like the **MERN stack**, **Socket.io**, **ZegoCloud**, and more.
 
-<!-- 🔗 **Live Demo:** [View Portfolio](https://arpit0408.vercel.app)   -->
+🔗 **Live Demo:** [View Portfolio](https://arpitpaliwalportfolio.vercel.app/)  
 📁 **GitHub Repo:** [Arpit_paliwal_portfolio](https://github.com/Arpit0408/Arpit_paliwal_portfolio)
 
 ---
