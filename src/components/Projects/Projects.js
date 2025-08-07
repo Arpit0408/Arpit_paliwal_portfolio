@@ -18,12 +18,8 @@ import meet from "../../Assets/Projects/meet.jpg";
 
 
 
-import emotion from "../../Assets/Projects/Screenshot (343).png";
-import editor from "../../Assets/Projects/Screenshot (344).png";
-import chatify from "../../Assets/Projects/Screenshot (477).png";
 import suicide from "../../Assets/Projects/Screenshot (474).png";
 import bitsOfCode from "../../Assets/Projects/Screenshot (475).png";
-import port from "../../Assets/Projects/Screenshot (348).png";
 
 
 function Projects() {
